@@ -992,112 +992,113 @@ attributes_policy_mix_support = [
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R0',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R0',
-        'Carbon tax': 'R0 per 100 kilometer',
+        'CO2 tax': 'R0 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2030'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R30,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R30,000',
-        'Carbon tax': 'R0 per 100 kilometer',
+        'CO2 tax': 'R0 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2030'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R30,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R12,000',
-        'Carbon tax': 'R50 per 100 kilometer',
+        'CO2 tax': 'R50 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2030'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R12,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R30,000',
-        'Carbon tax': 'R50 per 100 kilometer',
+        'CO2 tax': 'R50 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2030'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R12,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R0',
-        'Carbon tax': 'R100 per 100 kilometer',
+        'CO2 tax': 'R100 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2030'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R0',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R12,000',
-        'Carbon tax': 'R100 per 100 kilometer',
+        'CO2 tax': 'R100 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2030'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R30,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R12,000',
-        'Carbon tax': 'R0 per 100 kilometer',
+        'CO2 tax': 'R0 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2040'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R12,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R30,000',
-        'Carbon tax': 'R0 per 100 kilometer',
+        'CO2 tax': 'R0 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2040'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R0',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R0',
-        'Carbon tax': 'R50 per 100 kilometer',
+        'CO2 tax': 'R50 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2040'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R12,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R12,000',
-        'Carbon tax': 'R50 per 100 kilometer',
+        'CO2 tax': 'R50 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2040'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R30,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R0',
-        'Carbon tax': 'R100 per 100 kilometer',
+        'CO2 tax': 'R100 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2040'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R0',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R30,000',
-        'Carbon tax': 'R100 per 100 kilometer',
+        'CO2 tax': 'R100 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': '2040'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R12,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R0',
-        'Carbon tax': 'R0 per 100 kilometer',
+        'CO2 tax': 'R0 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': 'Never'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R0',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R12,000',
-        'Carbon tax': 'R0 per 100 kilometer',
+        'CO2 tax': 'R0 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': 'Never'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R30,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R0',
-        'Carbon tax': 'R50 per 100 kilometer',
+        'CO2 tax': 'R50 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': 'Never'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R0',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R30,000',
-        'Carbon tax': 'R50 per 100 kilometer',
+        'CO2 tax': 'R50 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': 'Never'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R12,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R12,000',
-        'Carbon tax': 'R100 per 100 kilometer',
+        'CO2 tax': 'R100 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': 'Never'
     },
     {
         'Subsidy on investment costs <b>new</b> EVs': 'R30,000',
         'Subsidy on investment costs <b>pre-owned</b> EVs': 'R30,000',
-        'Carbon tax': 'R100 per 100 kilometer',
+        'CO2 tax': 'R100 per 100 kilometer',
         'Sales ban on gasoline and diesel vehicles from': 'Never'
     },
 ]
+
 
 attributes_policy_outcome_fairness = [
     {
