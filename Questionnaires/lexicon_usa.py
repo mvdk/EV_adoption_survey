@@ -21,7 +21,7 @@ class Lexicon:
     transition_info = 'On the next pages, we will ask you a few more questions. Please answer the following comprehension question, and then click "next" to continue'
 
     # Comprehension question
-    comprehension_question_label = 'Which of the following best decribes a <b><i>CO2 tax</b></i>?'
+    comprehension_question_label = 'Which of the following best describes a <b><i>CO2 tax</b></i>?'
     comprehension_answer_1 = 'An additional price on greenhouse gas emissions emitted by fuels'
     comprehension_answer_2 = 'A direct payment from the government to support climate friendly projects'
     comprehension_answer_3 = 'An additional price on products involving child labor'
