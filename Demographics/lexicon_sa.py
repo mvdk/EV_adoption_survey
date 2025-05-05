@@ -104,3 +104,10 @@ class Lexicon:
     very_negative = "very negative"
     very_positive = "very positive"
     affect_ice_label = "Overall, how do you feel about <b>gasoline and diesel</b> cars?"
+
+    # transition
+
+    pre_transition_title = "End of first part"
+
+    pre_transition_thanks = "Thank you for answering these questions."
+    pre_transition_info = "In the next part of this study we will present a series of choice scenarios. We will provide detailed instructions on the next page."
