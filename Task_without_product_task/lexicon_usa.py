@@ -83,7 +83,7 @@ class Lexicon:
     policy_burden_high_income_text = "This shows the average amount that high-income households (more than $133,000 post-tax annual income) paid in CO₂ taxes last year for driving gasoline or diesel vehicles. The figure includes only households that drove gasoline or diesel cars, and is averaged across all high-income households, including those who drove electric vehicles or did not own a car."
     policy_burden_low_income_text = "This shows the average amount that low-income households (less than $32,000 post-tax annual income) paid in CO₂ taxes last year for driving gasoline or diesel vehicles. The figure includes only households that drove gasoline or diesel cars, and is averaged across all low-income households, including those who drove electric vehicles or did not own a car."
  
-    fairness_intro_text4 = "Please decide whether you would support each policy package presented."
+    fairness_intro_text4 = "Please indicate whether you find the outcome of each policy package fair or unfair. Possible responses range from 'very unfair' to 'very fair'."
 
     # TaskPage
 
