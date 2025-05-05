@@ -81,7 +81,7 @@ class Lexicon:
     policy_burden_high_income_text = "Dieses Merkmal zeigt den durchschnittlichen Betrag, den Haushalte mit hohem Einkommen (über 56.000 € Nettoeinkommen pro Jahr) im letzten Jahr an CO2-Steuern für das Fahren benzin- oder dieselbetriebener Fahrzeuge gezahlt haben. Die Angabe ergibt sich aus der Gesamtsumme gezahlter CO2-Steuern in der Einkommensgruppe, die durch das Fahren solcher Fahrzeuge anfallen, und wird über alle Haushalte mit hohem Einkommen gemittelt – einschließlich jener, die Elektrofahrzeuge oder kein Auto besitzen."
     policy_burden_low_income_text = "Dieses Merkmal zeigt den durchschnittlichen Betrag, den Haushalte mit hohem Einkommen (unter 19.000 € Nettoeinkommen pro Jahr) im letzten Jahr an CO2-Steuern für das Fahren benzin- oder dieselbetriebener Fahrzeuge gezahlt haben. Die Angabe ergibt sich aus der Gesamtsumme gezahlter CO2-Steuern in der Einkommensgruppe, die durch das Fahren solcher Fahrzeuge anfallen, und wird über alle Haushalte mit niedrigem Einkommen gemittelt – einschließlich jener, die Elektrofahrzeuge oder kein Auto besitzen."
 
-    fairness_intro_text4 = "Bitte entscheiden Sie, ob Sie das jeweilige Maßnahmenpaket unterstützen würden."
+    fairness_intro_text4 = "Bitte geben Sie an, ob Sie die Auswirkungen der Maßnahmenpakete für fair oder unfair halten. Mögliche Antworten reichen von ‚sehr unfair‘ bis ‚sehr fair‘."
 
     # TaskPage
     policy_question = "Würden Sie dieses Maßnahmenpaket unterstützen?"
