@@ -61,7 +61,7 @@ class Lexicon:
     tax_text = "Das Maßnahmenpaket kann eine CO2-Steuer auf Emissionen durch den Verbrauch von Benzin und Diesel enthalten. Die Verbrennung von Benzin und Diesel erzeugt CO2-Emissionen und trägt damit zum Klimawandel bei. Jeder Liter Kraftstoff produziert CO2, sodass die Steuer die Preise für Benzin und Diesel erhöht. Dadurch werden Elektrofahrzeuge im Vergleich attraktiver. Die Einnahmen erhöhen die öffentlichen Mittel."
     ice_sales_ban_text = "Diese Maßnahme verbietet den Verkauf von Benzin- und Dieselfahrzeugen ab einem bestimmten Jahr. Beachten Sie, dass dieses Verbot nur für den <b>Verkauf</b> von Autos gilt und dass es weiterhin legal ist, Benzin- und Dieselfahrzeuge zu <b>fahren</b>."
 
-    policy_intro_text4 = "Bitte entscheiden Sie, ob Sie das jeweilige Maßnahmenpaket unterstützen würden."
+    policy_intro_text4 = "Bitte entscheiden Sie, ob Sie das jeweilige Maßnahmenpaket unterstützen würden. Mögliche Antworten reichen von ‚stark ablehnen‘ bis ‚stark unterstützen‘."
 
     # instruction_fairness
     fairness_intro_title = "Bitte lesen Sie den folgenden Text sorgfältig:"
