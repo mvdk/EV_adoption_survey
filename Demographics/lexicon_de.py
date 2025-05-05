@@ -107,3 +107,11 @@ class Lexicon:
     very_positive = "sehr positiv"
     affect_ice_label = "Wie stehen Sie insgesamt zu <b>Benzin- und Dieselautos</b>?"
 
+    # transition
+
+    pre_transition_title = "Ende des ersten Teils"
+
+    pre_transition_thanks = "Wir danken Ihnen für die Beantwortung dieser Fragen."
+    pre_transition_info = "Im nächsten Teil dieser Studie werden wir eine Reihe von Wahlszenarien vorstellen. Eine ausführliche Anleitung finden Sie auf der nächsten Seite."
+
+
