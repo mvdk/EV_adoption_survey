@@ -258,12 +258,12 @@ class environmental_attitude(Page):
     def js_vars(player):
         Lexicon = player.session.questionnairesLexi
         return dict(
-            form_fields=['environmental_attitude_q1','environmental_attitude_q2','environmental_attitude_q3','environmental_attitude_q4','attention_check_2'],
+            form_fields=['environmental_attitude_q1','environmental_attitude_q2','attention_check_2','environmental_attitude_q3','environmental_attitude_q4'],
             form_field_labels=[Lexicon.environmental_attitude_q1,
                                Lexicon.environmental_attitude_q2,
+                               Lexicon.attention_check_2_label,                               
                                Lexicon.environmental_attitude_q3,
-                               Lexicon.environmental_attitude_q4,
-                               Lexicon.attention_check_2_label
+                               Lexicon.environmental_attitude_q4
                                ]
         )
     
