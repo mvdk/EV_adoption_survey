@@ -55,7 +55,7 @@ class Lexicon:
     subsidy_new = "<u>Subsidies on investment costs of new electric vehicles:</u>"
     subsidy_preowned = "<u>Subsidies on investment costs of pre-owned electric vehicles:</u>"
     tax = "<u>Carbon tax on gasoline and diesel:</u>"
-    ice_sales_ban = "<u>A sales ban on new gasoline and diesel vehicles:</u>"
+    ice_sales_ban = "<u>Sales ban on new gasoline and diesel vehicles:</u>"
 
     subsidy_new_text = "This attribute indicates whether there are <b>government subsidies (price discounts)</b> provided to buyers of a new electric vehicle. Subsidies on investment costs are designed to make electric vehicles more financially attractive and affordable for consumers, and promote their adoption. However, it is important to note that these subsidies might also mean that the public funds are not available for other projects. Furthermore, this subsidy is only valid for sales of <b><u>new</u></b> electric vehicles, and will <b><u>not</b></u> be available for the purchase of pre-owned electric vehicles" 
     subsidy_preowned_text = "This attribute indicates whether there are <b>government subsidies (price discounts)</b> provided to buyers of a pre-owned electric vehicle. Subsidies on investment costs are designed to make electric vehicles more financially attractive and affordable for consumers, and promote their adoption. However, it is important to note that these subsidies might also mean that the public funds are not available for other projects. Furthermore, this subsidy only on sales of <b><u>pre-owned</u></b> electric vehicles, and will <b><u>not</b></u> be available for the purchase of new electric vehicles"
