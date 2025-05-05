@@ -82,7 +82,7 @@ class Lexicon:
     policy_benefits_low_income_text = "This shows how much support, on average, low-income households (less than R20,000 post-tax annual income) received from the government for buying electric vehicles last year. The number is the total subsidy given to high-income EV buyers divided by the total number of low-income households (including those who did not buy an EV)."
     policy_burden_high_income_text = "This shows the average amount that high-income households (more than R240,000 post-tax annual income) paid in CO₂ taxes last year for driving gasoline or diesel vehicles. The figure includes only households that drove gasoline or diesel cars, and is averaged across all high-income households, including those who drove electric vehicles or did not own a car."
     policy_burden_low_income_text = "This shows the average amount that low-income households (less than R20,000 post-tax annual income) paid in CO₂ taxes last year for driving gasoline or diesel vehicles. The figure includes only households that drove gasoline or diesel cars, and is averaged across all low-income households, including those who drove electric vehicles or did not own a car." 
-    fairness_intro_text4 = "Please decide whether you would support each policy package presented."
+    fairness_intro_text4 = "Please indicate whether you find the outcome of each policy package fair or unfair. Possible responses range from 'very unfair' to 'very fair'."
 
     # TaskPage
 
