@@ -326,6 +326,12 @@ class affect(Page):
     def vars_for_template(player: Player):
         return dict(Lexicon=player.session.demographicsLexi)  
 
+class pre_transition(Page):
+    form_model = 'player'
+
+    @staticmethod
+    def vars_for_template(player: Player):
+        return dict(Lexicon=player.session.demographicsLexi)
 
 # Page sequence
 page_sequence = [
@@ -334,5 +340,6 @@ page_sequence = [
     car_owner,
     no_car_owner,
     future_car_owner,
-    affect
+    affect,
+    pre_transition
 ]
