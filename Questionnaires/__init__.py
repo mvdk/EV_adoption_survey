@@ -248,7 +248,7 @@ class probability(Page):
 
 class environmental_attitude(Page):
     form_model = 'player'
-    form_fields = ['environmental_attitude_q1','environmental_attitude_q2','environmental_attitude_q3','environmental_attitude_q4','attention_check_2']
+    form_fields = ['environmental_attitude_q1','environmental_attitude_q2','attention_check_2','environmental_attitude_q3','environmental_attitude_q4']
 
     @staticmethod
     def vars_for_template(player: Player):
