@@ -63,6 +63,6 @@ class MobileCheck(Page):
 
 
 page_sequence = [
-    MobileCheck,
+    # MobileCheck,
     introduction_consent
 ]
