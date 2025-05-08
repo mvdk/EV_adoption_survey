@@ -201,22 +201,22 @@
                 {% if policy_block %}
                 <thead>
                     <tr>
-                        <th>Lexicon.policy</th>
-                        <th>Lexicon.policy_level</th>
+                        <th>{{ Lexicon.policy }}</th>
+                        <th>{{ Lexicon.policy_level }}</th>
                     </tr>
                 </thead>
                 {% elif fairness_block %}
                 <thead>
                     <tr>
-                        <th>Lexicon.policy_outcome</th>
-                        <th>Lexicon.policy_outcome_level</th>
+                        <th>{{ Lexicon.policy_outcome }}</th>
+                        <th>{{ Lexicon.policy_outcome_level }}</th>
                     </tr>
                 </thead>
                 {% else %}
                 <thead>
                     <tr>
-                        <th>Lexicon.ev_attribute</th>
-                        <th>Lexicon.ev_attribute_level</th>
+                        <th>{{ Lexicon.ev_attribute }}</th>
+                        <th>{{ Lexicon.ev_attribute_level }}</th>
                     </tr>
                 </thead>
                 {% endif %}
