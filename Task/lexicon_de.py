@@ -21,7 +21,7 @@ class Lexicon:
 
     # instruction_product
     product_intro_title = "Bitte lesen Sie den folgenden Text sorgfältig:"
-    product_intro_text1 = "Auf den nächsten Seiten werden Ihnen verschiedene ausgedachte Kaufszenarien präsentiert. <b>Bitte stellen Sie sich vor, dass Sie ein neues Auto kaufen möchten.</b><br><br>"
+    product_intro_text1 = "Auf den nächsten Seiten werden Ihnen 18 ausgedachte Kaufszenarien präsentiert. <b>Bitte stellen Sie sich vor, dass Sie ein neues Auto kaufen möchten.</b><br><br>"
     product_intro_text2 = "Ihre Aufgabe ist es, verschiedene Angebote für <b>Elektrofahrzeuge</b> zu bewerten und  zu entscheiden, ob Sie das angebotene Auto jeweils kaufen würden oder nicht.<br><br>"
     product_intro_text3 = "Berücksichtigen Sie die folgenden Merkmale, die sich zwischen den Angeboten unterscheiden:"
 
@@ -47,7 +47,7 @@ class Lexicon:
 
     # instruction_policy
     policy_intro_title = "Bitte lesen Sie den folgenden Text sorgfältig:"
-    policy_intro_text1 = "Auf den folgenden Seiten zeigen wir Ihnen eine Reihe ausgedachte politischer Maßnahmenpakete. Diese Maßnahmen sollen die Verkaufszahlen von Elektrofahrzeugen erhöhen."
+    policy_intro_text1 = "Auf den folgenden Seiten zeigen wir Ihnen 18 ausgedachte politischer Maßnahmenpakete. Diese Maßnahmen sollen die Verkaufszahlen von Elektrofahrzeugen erhöhen."
     policy_intro_text2 = "Wir bitten Sie nun darum, jede Maßnahme zu bewerten und anzugeben, ob Sie sie unterstützen würden oder nicht."
     policy_intro_text3 = "Jedes politische Maßnahmenpaket enthält verschiedene Kombinationen der folgenden Einzelmaßnahmen:"
 
@@ -65,7 +65,7 @@ class Lexicon:
 
     # instruction_fairness
     fairness_intro_title = "Bitte lesen Sie den folgenden Text sorgfältig:"
-    fairness_intro_text1 = "Auf den folgenden Seiten zeigen wir Ihnen die hypothetische Auswirkungen, wenn die von Ihnen vorher bewerteten Maßnahmenpaketen eingeführt werden. Ziel der Maßnahmen ist es, den Verkauf von Elektroautos zu steigern und CO2-Emissionen zu senken. Die Auswirkungen dieser Maßnahmen können sich jedoch je nach Einkommensgruppe unterscheiden."
+    fairness_intro_text1 = "Auf den folgenden Seiten zeigen wir Ihnen 18 hypothetische Auswirkungen von Maßnahmenpaketen. Ziel der Maßnahmen ist es, den Verkauf von Elektroautos zu steigern und CO2-Emissionen zu senken. Die Auswirkungen dieser Maßnahmen können sich jedoch je nach Einkommensgruppe unterscheiden."
     fairness_intro_text2 = "Wir bitten Sie nun darum zu bewerten, ob Sie die Auswirkungen der Maßnahmen als fair oder unfair empfinden."
     fairness_intro_text3 = "Die Auswirkungen bestehen aus einer Kombination folgender Merkmale:"
 
