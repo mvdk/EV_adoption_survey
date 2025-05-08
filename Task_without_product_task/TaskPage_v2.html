@@ -197,12 +197,28 @@
             <img style="width:100%; margin: 10px; max-width:300px;" src="{% static 'global/images/electric.webp' %}">
             {% endif %}
             <table class="table table-bordered" style="width: 60%; margin: auto;">
+                {% if policy_block %}
                 <thead>
                     <tr>
-                        <th>Attribute</th>
-                        <th>Level</th>
+                        <th>Lexicon.policy</th>
+                        <th>Lexicon.policy_level</th>
                     </tr>
                 </thead>
+                {% elif fairness_block %}
+                <thead>
+                    <tr>
+                        <th>Lexicon.policy_outcome</th>
+                        <th>Lexicon.policy_outcome_level</th>
+                    </tr>
+                </thead>
+                {% else %}
+                <thead>
+                    <tr>
+                        <th>Lexicon.ev_attribute</th>
+                        <th>Lexicon.ev_attribute_level</th>
+                    </tr>
+                </thead>
+                {% endif %}
                 <tbody>
                     {% for attribute, level in attributes.items %}
                     <tr>
