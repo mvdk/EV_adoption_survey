@@ -42,11 +42,11 @@ class end(Page):
     def vars_for_template(player: Player):
         lang = player.subsession.session.config['language']
         if lang == 'de':
-            redirect_url = "https://app.prolific.com/submissions/complete?cc=C1C34XA1" ############### TO DO
+            redirect_url = "https://app.prolific.com/submissions/complete?cc=CR9ABSI0" ############### TO DO
         elif lang == 'sa':
-            redirect_url = "https://app.prolific.com/submissions/complete?cc=C130RUSK" ############### TO DO
+            redirect_url = "https://app.prolific.com/submissions/complete?cc=CR9ABSI0" ############### TO DO
         else:
-            redirect_url = "https://app.prolific.com/submissions/complete?cc=CDDLSBC6" ############### TO DO
+            redirect_url = "https://app.prolific.com/submissions/complete?cc=CR9ABSI0" ############### TO DO
 
         return {
             'redirect_url': redirect_url,
