@@ -20,12 +20,12 @@ class Lexicon:
     button_start = "Start Task"
 
     # table titles
-    EVAttribute = "Vehicle attribute"
-    EVAttributeLevel = "Attribute level"
-    Policy = "Policy"
-    PolicyLevel = "Policy level"
-    Outcome = "Policy outcome"
-    OutcomeLevel = "Outcome level"
+    ev_attribute = "Vehicle attribute"
+    ev_attribute_level = "Attribute level"
+    policy = "Policy"
+    policy_level = "Policy level"
+    policy_outcome = "Policy outcome"
+    policy_outcome_level = "Outcome level"
 
     # instruction_product
     product_intro_title = "Please read carefully:"
