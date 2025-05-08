@@ -198,10 +198,28 @@
             {% endif %}
             <table class="table table-bordered" style="width: 60%; margin: auto;">
                 <thead>
+                {% if policy_block %}
+                <thead>
                     <tr>
-                        <th>Attribute</th>
-                        <th>Level</th>
+                        <th>Lexicon.policy</th>
+                        <th>Lexicon.policy_level</th>
                     </tr>
+                </thead>
+                {% elif fairness_block %}
+                <thead>
+                    <tr>
+                        <th>Lexicon.policy_outcome</th>
+                        <th>Lexicon.policy_outcome_level</th>
+                    </tr>
+                </thead>
+                {% else %}
+                <thead>
+                    <tr>
+                        <th>Lexicon.ev_attribute</th>
+                        <th>Lexicon.ev_attribute_level</th>
+                    </tr>
+                </thead>
+                {% endif %}
                 </thead>
                 <tbody>
                     {% for attribute, level in attributes.items %}
