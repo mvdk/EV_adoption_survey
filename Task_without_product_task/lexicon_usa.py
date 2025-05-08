@@ -21,7 +21,7 @@ class Lexicon:
 
     # instruction_product
     product_intro_title = "Please read carefully:"
-    product_intro_text1 = "In the upcoming pages, you will be presented with various imaginary investment scenarios. <b>Please imagine that you would like to purchase a new car.</b><br><br>"
+    product_intro_text1 = "In the upcoming pages, you will be presented with 18 imaginary investment scenarios. <b>Please imagine that you would like to purchase a new car.</b><br><br>"
     product_intro_text2 = "Your role is to evaluate different offers for <b>electric vehicles</b> and decide whether or not you would choose to buy each car.<br><br>"
     product_intro_text3 = "Consider the following attributes that vary across the offers:"
 
@@ -47,7 +47,7 @@ class Lexicon:
 
     # instruction_policy
     policy_intro_title = "Please read carefully:"
-    policy_intro_text1 = "In the following pages, we will present you with a series of imaginary policy packages. The policies are designed to foster the uptake of electric vehicles."
+    policy_intro_text1 = "In the following pages, we will present you with a series of 18 imaginary policy packages. The policies are designed to foster the uptake of electric vehicles."
     policy_intro_text2 = "Your task is to evaluate and express your support or non-support for each policy proposal."
     policy_intro_text3 = "Each policy package will consist of different combinations of the following policies:"
 
@@ -66,7 +66,7 @@ class Lexicon:
 
     # instruction_fairness
     fairness_intro_title = "Please read carefully:"
-    fairness_intro_text1 = "In the following pages, we will present you with a series of imaginary outcomes of policy packages. The goal of these policies is to stimulate the sales of electric vehicles to achieve reductions of CO2 emissions. However, the impact of these policies may differ between groups of households with different incomes. Even when electric vehicle policies can provide societal benefits such as pollution reduction, some groups may benefit more from these policies than others."
+    fairness_intro_text1 = "In the following pages, we will present you with a series of 18 imaginary outcomes of policy packages. The goal of these policies is to stimulate the sales of electric vehicles to achieve reductions of CO2 emissions. However, the impact of these policies may differ between groups of households with different incomes. Even when electric vehicle policies can provide societal benefits such as pollution reduction, some groups may benefit more from these policies than others."
     fairness_intro_text2 = "Your task is to evaluate and express whether you find the outcome of the electric vehicle policies fair or unfair."
     fairness_intro_text3 = "Each policy outcome will consist of different combinations of the following attributes:"
 
