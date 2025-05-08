@@ -331,7 +331,7 @@
     var titlePrefix = isPolicyBlock ? "{{ Lexicon.policy_package_no }}" : 
                       isFairnessBlock ? "{{ Lexicon.fairness_no }}" : 
                       "{{ Lexicon.product_offer_no }}";
-    titleElement.textContent = titlePrefix + " No. " + pageLoadCount;
+    titleElement.textContent = titlePrefix + " No. " + pageLoadCount + " / 18  ";
 
     // Save to localStorage
     localStorage.setItem("pageLoadCount", pageLoadCount.toString());
