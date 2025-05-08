@@ -97,7 +97,7 @@ class Lexicon:
     environmental_attitude_q4a1 = "Environmental protection guides my decisions in life, such as where I live and my choice of career."
     environmental_attitude_q4a2 = "By publicly supporting environmental protection, I showcase its importance to others."
     environmental_attitude_q4a3 = "I feel obligated to contribute my share to environmental protection."
-    environmental_attitude_q4a4 = "Environmental protection only makes sense if the biggest CO emitters (i.e., China and the US) take action, too."
+    environmental_attitude_q4a4 = "Environmental protection only makes sense if the biggest CO2 emitters (i.e., China and the US) take action, too."
     environmental_attitude_q4a5 = "I do not care much about environmental protection."
     environmental_attitude_q4a6 = "I cannot identify with any of these statements."
 
