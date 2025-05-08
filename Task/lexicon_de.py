@@ -19,6 +19,14 @@ class Lexicon:
     very_fair = "Sehr fair"
     button_start = "Aufgabe starten"
 
+    # table titles
+    ev_attribute = "Fahrzeugmerkmal"
+    ev_attribute_level = "Merkmalsebene"
+    policy = "Maßnahme"
+    policy_level = "Maßnahmenebene"
+    policy_outcome = "Auswirkung"
+    policy_outcome_level = "Auswirkungsebene"
+
     # instruction_product
     product_intro_title = "Bitte lesen Sie den folgenden Text sorgfältig:"
     product_intro_text1 = "Auf den nächsten Seiten werden Ihnen 18 ausgedachte Kaufszenarien präsentiert. <b>Bitte stellen Sie sich vor, dass Sie ein neues Auto kaufen möchten.</b><br><br>"
