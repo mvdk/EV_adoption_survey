@@ -19,6 +19,14 @@ class Lexicon:
     very_fair = "Very fair"
     button_start = "Start Task"
 
+    # table titles
+    EVAttribute = "Vehicle attribute"
+    EVAttributeLevel = "Attribute level"
+    Policy = "Policy"
+    PolicyLevel = "Policy level"
+    Outcome = "Policy outcome"
+    OutcomeLevel = "Outcome level"
+
     # instruction_product
     product_intro_title = "Please read carefully:"
     product_intro_text1 = "In the upcoming pages, you will be presented with 18 imaginary investment scenarios. <b>Please imagine that you would like to purchase a new car.</b><br><br>"
