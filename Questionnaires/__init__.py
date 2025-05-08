@@ -69,7 +69,7 @@ def environmental_attitude_q2_choices(player):
         ["3", Lexicon.environmental_attitude_q2a3],
         ["4", Lexicon.environmental_attitude_q2a4],
         ["5", Lexicon.environmental_attitude_q2a5],
-        ["NA", Lexicon.environmental_attitude_q2a6]
+        #["NA", Lexicon.environmental_attitude_q2a6]
     ]
     return environmental_attitude_q2_choices
 
