@@ -11,7 +11,7 @@ class Lexicon:
     next = "Next"
 
     # Consent Text
-    consent_p1 = 'Hallo! Thank you for your interest in taking part in this study. <br><br> This study is supervised by dr. Marten van der Kam, MSc Anne Günther, MSc Lukas Engel, (University of Basel, Switzerland) and prof. Ulf Hahnel (Leuphana University of Lüneburg, Germany).'
+    consent_p1 = 'Hello! Thank you for your interest in taking part in this study. <br><br> This study is supervised by dr. Marten van der Kam, MSc Anne Günther, MSc Lukas Engel, (University of Basel, Switzerland) and prof. Ulf Hahnel (Leuphana University of Lüneburg, Germany).'
     consent_p2 = ' If you agree to participate in this study, you will be asked to do the following:'
 
     consent_bullet1 = 'Report some personal information, including your age, gender, income, and political orientation.'
