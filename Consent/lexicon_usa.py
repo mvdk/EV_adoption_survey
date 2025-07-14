@@ -7,7 +7,7 @@ class Lexicon:
     stop = "Stop"
     your_decision = "Your decision"
     mobile_check = "Please click next."
-    mobile = "Sorry, this experiment does not allow mobile browsers. Please return to the Prolific website and paste this code: CR9ABSI0"
+    mobile = "Sorry, this experiment does not allow mobile browsers. Please return to the Prolific website and paste this code: C1P775VF"
     next = "Next"
 
     # Consent Text
