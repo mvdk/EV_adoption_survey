@@ -19,7 +19,8 @@ class Lexicon:
     transition_title = 'Welcome to the last segment of the study'
     #transition_thanks = 'Thank you for evaluating the electric vehicle offers, and the policy packages and outcomes!'
     transition_thanks = 'Thank you for evaluating the electric vehicle offers!'
-    transition_info = 'On the next pages, we will ask you a few more questions. Please answer the following comprehension question, and then click "next" to continue'
+    #transition_info = 'On the next pages, we will ask you a few more questions. Please answer the following comprehension question, and then click "next" to continue'
+    transition_info = 'On the next pages, we will ask you a few more questions. Please click "next" to continue'
 
     # Comprehension question
     comprehension_question_label = 'Which of the following best describes a <b><i>CO2 tax</b></i>?'
