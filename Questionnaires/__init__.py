@@ -202,19 +202,19 @@ class Player(BasePlayer):
 
 class transition(Page):
     form_model = 'player'
-    form_fields = ['comprehension_question']
+    #form_fields = ['comprehension_question']
 
     @staticmethod
     def vars_for_template(player: Player):
         return dict(Lexicon=player.session.questionnairesLexi)
     
-    @staticmethod
-    def js_vars(player):
-        Lexicon = player.session.questionnairesLexi
-        return dict(
-            form_fields=['comprehension_question'],
-            form_field_labels=[Lexicon.comprehension_question_label]
-        )
+    #@staticmethod
+    #def js_vars(player):
+    #    Lexicon = player.session.questionnairesLexi
+    #    return dict(
+    #        form_fields=['comprehension_question'],
+    #        form_field_labels=[Lexicon.comprehension_question_label]
+    #    )
 
 class risks_preferences(Page):
     form_model = 'player'
