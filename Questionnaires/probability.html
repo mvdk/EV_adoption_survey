@@ -31,12 +31,14 @@
 
 <table class="radiotable">
     <tr> <th></th>
-        <th class="radio-column"> {{ Lexicon.completely_disagree }} </th>
+        <th class="radio-column"> {{ Lexicon.completely_disagree }}<br>
+            <span class="scale-number">1</span> </th>
         <th class="radio-column"> 2 </th>
         <th class="radio-column"> 3 </th>
         <th class="radio-column"> 4 </th>
         <th class="radio-column"> 5 </th>
-        <th class="radio-column"> {{ Lexicon.completely_agree }} </th>
+        <th class="radio-column"> {{ Lexicon.completely_agree }}<br>
+            <span class="scale-number">1</span> </th>
     </tr>
 
     {% for field in form %}
