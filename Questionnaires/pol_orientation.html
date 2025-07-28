@@ -1,0 +1,24 @@
+{{ block title}}
+{{ Lexicon.pol_orientation_title}}
+{{ endblock}}
+
+{{ block content }}
+{{ Lexicon.pol_orientation_text }}
+
+<div class="radiotable" style="padding-top:2vh; padding-left:1vw;">
+<p style="text-indent: 7vw;">
+    {{ Lexicon.strongly_liberal}}
+    {{ for choice in form.conservative_liberal}}
+        {{ choice }}
+    {{ endfor }}
+    {{ Lexicon.strongly_conservative}}
+</p>
+</div>
+
+
+<button style="float: right; margin-top: 2vh;" class="otree-btn-next btn btn-primary" >{{ Lexicon.next }}</button>
+
+<div style="height: 100px;"></div>
+
+{% endblock %}
+

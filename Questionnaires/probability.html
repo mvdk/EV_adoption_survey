@@ -1,0 +1,131 @@
+{{ block title }}
+{{ Lexicon.probability_title}}
+{{ endblock }}
+
+{{ block content }}
+<style>
+    .radio-column {
+        width: 10%;
+        min-width: 63px;
+        max-width: 93px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 1vh;
+        text-align: left;
+    }
+</style>
+
+<p>
+    {{ Lexicon.intro_probability}}
+    <br>
+    <br>
+    <br>
+    <b>{{ Lexicon.question_advantages}}</b>
+    <br>
+    <br>
+    {{ Lexicon.answer_intro_advantages}}
+</p>
+
+
+<table class="radiotable">
+    <tr> <th></th>
+        <th class="radio-column"> {{ Lexicon.completely_disagree }}<br>
+            <span class="scale-number">1</span> </th>
+        <th class="radio-column"> 2 </th>
+        <th class="radio-column"> 3 </th>
+        <th class="radio-column"> 4 </th>
+        <th class="radio-column"> 5 </th>
+        <th class="radio-column"> {{ Lexicon.completely_agree }}<br>
+            <span class="scale-number">6</span> </th>
+    </tr>
+
+    {% for field in form %}
+            {% if field.name == 'ev_prob_benefits1' or field.name == 'ev_prob_benefits2'
+            or field.name == 'ev_prob_benefits3' or field.name == 'ev_prob_benefits4' %}
+            {{formfield_errors field.name}}
+
+            <tr>
+                <th style="font-weight:normal;"  style="word-wrap:break-word;" id={{field.id}} name={{field.name}}>  </th>
+
+                {{ for choice in field }}
+                <td   style="width:7%;" > {{ choice }} </td>
+                {{ endfor }}
+            </tr>
+            {% endif %}
+
+        {{ endfor }}
+
+</table>
+<br>
+<br>
+<p>
+    <b> {{ Lexicon.question_disadvantages }} </b>
+    <br><br>
+
+    {{ Lexicon.answer_intro_disadvantages }}
+
+</p>
+<table class="radiotable">
+    <tr> <th></th>
+        <th class="radio-column"> {{ Lexicon.completely_disagree }}<br>
+            <span class="scale-number">1</span> </th>
+        <th class="radio-column"> 2 </th>
+        <th class="radio-column"> 3 </th>
+        <th class="radio-column"> 4 </th>
+        <th class="radio-column"> 5 </th>
+        <th class="radio-column"> {{ Lexicon.completely_agree }}<br>
+            <span class="scale-number">6</span> </th>
+    </tr>
+<tr>
+    {% for field in form %}
+            {% if field.name == 'ev_prob_risks1' or field.name == 'ev_prob_risks2' or field.name == 'ev_prob_risks3'%}
+            {{formfield_errors field.name}}
+
+            <tr>
+                <th style="font-weight:normal;"  style="word-wrap:break-word;" id={{field.id}} name={{field.name}}>  </th>
+
+                {{ for choice in field }}
+                <td   style="width:7%;" > {{ choice }} </td>
+                {{ endfor }}
+            </tr>
+            {% endif %}
+
+        {{ endfor }}
+
+</table>
+
+ <div class="next-btn radiotable">
+    <div style="float: right; padding-top: 2vh;">
+        <button id="nextst"  style=" margin-top: 4vh;" class="otree-btn-next btn btn-primary">{{Lexicon.next}}</button>
+
+
+    </div>
+</div>
+
+<div style="height: 100px;"></div>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{% static 'global/js/functions.js' %}" defer></script>
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", function () {
+        setWidthForTableColumns1();
+    });
+
+    $(document).ready(function () {
+        for (let i = 0; i < js_vars.form_fields.length; i++) {
+            prop= js_vars.form_fields[i] + '_Label'
+            label = js_vars.form_field_labels[i]
+            id = 'id_' + js_vars.form_fields[i]
+            $('#' + id).html(label)
+        }
+
+
+    })
+</script>
+{% endblock %}
