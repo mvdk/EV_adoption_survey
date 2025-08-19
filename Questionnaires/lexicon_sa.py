@@ -22,7 +22,7 @@ class Lexicon:
     transition_info_no_carbuyers = 'We will ask you a few more questions. Please answer the following comprehension question, and then click "next" to continue'
 
     # Question on ban
-    ban_question = "In the electric vehicle offers, we included a ban on the sale of new gasoline and diesel vehicles starting in 1 or 5 years. How did this ban announcement influence your evaluation of the electric vehicle offers?"
+    ban_question_label = "In the electric vehicle offers, we included a ban on the sale of new gasoline and diesel vehicles starting in 1 or 5 years. How did this ban announcement influence your evaluation of the electric vehicle offers?"
     ban_answer_1 = "Made me a lot more likely to buy an electric vehicle"
     ban_answer_2 = "Made me somewhat more likely to buy an electric vehicle"
     ban_answer_3 = "Made no difference to my likelihood of buying an electric vehicle"
