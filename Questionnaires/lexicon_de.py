@@ -22,7 +22,7 @@ class Lexicon:
     transition_info_no_carbuyers = 'Wir stellen Ihnen noch ein paar generelle Fragen zu Ihren Meinungen. Bitte beantworten Sie die folgende Verständnisfrage und klicken Sie dann auf "Weiter", um fortzufahren.'
 
     # Frage zum Verbot
-    ban_question = "In den Angeboten für Elektrofahrzeuge haben wir ein Verbot für den Verkauf neuer Benzin- und Dieselfahrzeuge beginnedn in 1 oder 5 Jahren aufgenommen. Wie hat dieses Verbotsankündigung Ihre Bewertung der Angebote für Elektrofahrzeuge beeinflusst?"
+    ban_question_label = "In den Angeboten für Elektrofahrzeuge haben wir ein Verbot für den Verkauf neuer Benzin- und Dieselfahrzeuge beginnedn in 1 oder 5 Jahren aufgenommen. Wie hat dieses Verbotsankündigung Ihre Bewertung der Angebote für Elektrofahrzeuge beeinflusst?"
     ban_answer_1 = "Hat mich deutlich eher dazu gebracht, ein Elektrofahrzeug zu kaufen."
     ban_answer_2 = "Hat mich etwas eher dazu gebracht, ein Elektrofahrzeug zu kaufen."
     ban_answer_3 = "Hatte keinen Einfluss auf meine Bereitschaft, ein Elektrofahrzeug zu kaufen."
