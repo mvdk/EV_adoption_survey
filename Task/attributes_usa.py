@@ -147,7 +147,7 @@ attributes_version_1_large = [
 
 attributes_version_1_medium = [
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$6 per 100 miles',
         'Gasoline costs for comparable car': '$23 per 100 miles',
         'Total range': '300 miles on a single charge',
@@ -187,7 +187,7 @@ attributes_version_1_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$4 per 100 miles',
         'Gasoline costs for comparable car': '$17 per 100 miles',
         'Total range': '410 miles on a single charge',
@@ -211,7 +211,7 @@ attributes_version_1_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$4 per 100 miles',
         'Gasoline costs for comparable car': '$8 per 100 miles',
         'Total range': '300 miles on a single charge',
@@ -267,7 +267,7 @@ attributes_version_1_medium = [
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$4 per 100 miles',
         'Gasoline costs for comparable car': '$17 per 100 miles',
         'Total range': '300 miles on a single charge',
@@ -604,7 +604,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$6 per 100 miles',
         'Gasoline costs for comparable car': '$8 per 100 miles',
         'Total range': '190 miles on a single charge',
@@ -620,7 +620,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$8 per 100 miles',
         'Gasoline costs for comparable car': '$8 per 100 miles',
         'Total range': '300 miles on a single charge',
@@ -644,7 +644,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$4 per 100 miles',
         'Gasoline costs for comparable car': '$23 per 100 miles',
         'Total range': '190 miles on a single charge',
@@ -660,7 +660,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$8 per 100 miles',
         'Gasoline costs for comparable car': '$23 per 100 miles',
         'Total range': '410 miles on a single charge',
@@ -668,7 +668,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$6 per 100 miles',
         'Gasoline costs for comparable car': '$17 per 100 miles',
         'Total range': '190 miles on a single charge',
@@ -676,7 +676,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$8 per 100 miles',
         'Gasoline costs for comparable car': '$17 per 100 miles',
         'Total range': '190 miles on a single charge',
@@ -692,7 +692,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$6 per 100 miles',
         'Gasoline costs for comparable car': '$8 per 100 miles',
         'Total range': '410 miles on a single charge',
@@ -724,7 +724,7 @@ attributes_version_2_medium = [
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
     },
     {
-        'Purchase price (after subsidy)': '$39,000',
+        'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$8 per 100 miles',
         'Gasoline costs for comparable car': '$23 per 100 miles',
         'Total range': '410 miles on a single charge',
