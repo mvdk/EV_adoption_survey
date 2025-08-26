@@ -113,6 +113,8 @@ class Lexicon:
     # Trust in government
     trust_in_government_title = "Trust in Government"
 
+      trust_in_government_intro = "Please try to answer the following questions based on an overall evaluation of the South African government over the past 20 years, rather than just focusing on the current government."
+
     trust_in_government_q1 = "Which of the following statements best describes your opinion of the government’s capabilities?"
     trust_in_government_q1a1 = "I do not trust any form of government."
     trust_in_government_q1a2 = "I believe the government can handle emergencies."
