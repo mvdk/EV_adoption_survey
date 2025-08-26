@@ -89,7 +89,7 @@ class Lexicon:
     environmental_attitude_q2 = "Which of the following opinions on environmental policy comes closest to your own?"
     environmental_attitude_q2a1 = "Environmental protection should be the central goal of the government in the 21st century."
     environmental_attitude_q2a2 = "An effective climate policy leads to far-reaching restrictions."
-    environmental_attitude_q2a3 = "As a wealthy society, we have the responsibility to advance climate protection in the world."
+    environmental_attitude_q2a3 = "As a comparatively wealthy society, we have the responsibility to advance climate protection in Africa."
     environmental_attitude_q2a4 = "It is the government's responsibility to do something to counteract man-made climate change."
     environmental_attitude_q2a5 = "I oppose any political measures that are designed to fight climate change."
     environmental_attitude_q2a6 = "I do not support any of these opinions."
