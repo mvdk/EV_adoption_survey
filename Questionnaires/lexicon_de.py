@@ -78,6 +78,8 @@ class Lexicon:
     # Environmental attitude (Engel et al., 2023)
     environmental_attitude_title = "Einstellung zur Umwelt"
 
+    trust_in_government_intro = "Bitte versuchen Sie, die folgenden Fragen auf der Grundlage einer Gesamtbewertung der deutschen Regierung in den letzten 20 Jahren zu beantworten, anstatt sich nur auf die derzeitige Regierung zu konzentrieren."
+
     environmental_attitude_q1 = "Welche der folgenden Aussagen beschreibt Sie persönlich am besten?"
     environmental_attitude_q1a1 = "Umweltschutz ist ein zentraler Lebensinhalt."
     environmental_attitude_q1a2 = "Ich sehe mich selbst als Umweltschützer:in."
