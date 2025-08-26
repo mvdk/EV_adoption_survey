@@ -149,7 +149,7 @@ attributes_version_1_medium = [
     {
         'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$6 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '300 miles on a single charge',
         'Electric vehicle adoption in your income group': '5 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
@@ -181,7 +181,7 @@ attributes_version_1_medium = [
     {
         'Purchase price (after subsidy)': '$34,000',
         'Electricity costs for driving': '$8 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '190 miles on a single charge',
         'Electric vehicle adoption in your income group': '75 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
@@ -197,7 +197,7 @@ attributes_version_1_medium = [
     {
         'Purchase price (after subsidy)': '$19,000',
         'Electricity costs for driving': '$6 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '190 miles on a single charge',
         'Electric vehicle adoption in your income group': '5 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
@@ -229,7 +229,7 @@ attributes_version_1_medium = [
     {
         'Purchase price (after subsidy)': '$34,000',
         'Electricity costs for driving': '$4 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '300 miles on a single charge',
         'Electric vehicle adoption in your income group': '75 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
@@ -253,7 +253,7 @@ attributes_version_1_medium = [
     {
         'Purchase price (after subsidy)': '$34,000',
         'Electricity costs for driving': '$4 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '410 miles on a single charge',
         'Electric vehicle adoption in your income group': '5 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
@@ -261,7 +261,7 @@ attributes_version_1_medium = [
     {
         'Purchase price (after subsidy)': '$34,000',
         'Electricity costs for driving': '$6 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '190 miles on a single charge',
         'Electric vehicle adoption in your income group': '40 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
@@ -614,7 +614,7 @@ attributes_version_2_medium = [
     {
         'Purchase price (after subsidy)': '$19,000',
         'Electricity costs for driving': '$4 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '300 miles on a single charge',
         'Electric vehicle adoption in your income group': '40 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
@@ -630,7 +630,7 @@ attributes_version_2_medium = [
     {
         'Purchase price (after subsidy)': '$19,000',
         'Electricity costs for driving': '$6 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '410 miles on a single charge',
         'Electric vehicle adoption in your income group': '75 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 1 year'
@@ -646,7 +646,7 @@ attributes_version_2_medium = [
     {
         'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$4 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '190 miles on a single charge',
         'Electric vehicle adoption in your income group': '40 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
@@ -662,7 +662,7 @@ attributes_version_2_medium = [
     {
         'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$8 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '410 miles on a single charge',
         'Electric vehicle adoption in your income group': '40 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'A sales ban on gasoline and diesel vehicles starts in 5 years'
@@ -686,7 +686,7 @@ attributes_version_2_medium = [
     {
         'Purchase price (after subsidy)': '$19,000',
         'Electricity costs for driving': '$8 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '300 miles on a single charge',
         'Electric vehicle adoption in your income group': '5 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
@@ -726,7 +726,7 @@ attributes_version_2_medium = [
     {
         'Purchase price (after subsidy)': '$49,000',
         'Electricity costs for driving': '$8 per 100 miles',
-        'Gasoline costs for comparable car': '$23 per 100 miles',
+        'Gasoline costs for comparable car': '$25 per 100 miles',
         'Total range': '410 miles on a single charge',
         'Electric vehicle adoption in your income group': '75 % of households in your income group drive an electric car',
         'Sales ban on gasoline and diesel vehicles': 'There will be no sales ban on gasoline and diesel vehicles'
